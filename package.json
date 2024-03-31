@@ -1,0 +1,17 @@
+{
+  "name": "selenium-example",
+  "version": "1.0.0",
+  "engines": {
+    "node": "20"
+  },
+  "main": "main.mjs",
+  "scripts": {
+    "start": "node main.mjs"
+  },
+  "author": "brody192",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "selenium-webdriver": "^4.19.0"
+  }
+}
